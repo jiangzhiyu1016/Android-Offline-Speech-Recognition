@@ -2,7 +2,7 @@
 Provide accurate offline voice-to-text services for VR,AR and Android platforms, such as oculus quest1/2/pro or pico3/4
 
 
-详细介绍:
+## Introduction
 1.支持两种语音离线识别(英语和汉语) 
 1. Support two kinds of offline speech recognition (English and Chinese)
 2.简单,强大,创作者可以用几个蓝图函数轻松调用它
@@ -45,6 +45,18 @@ You can select debug directly, if there is a problem you can right-click the pro
 
 2.getJvoicePointer()
 getJvoicePointer() gets an object that can bind real-time speech-to-text results to events
+
+## Call routine diagram summary
+
+![image](https://user-images.githubusercontent.com/56686900/211331329-d5455b96-0538-41d8-a3d9-b60348351e63.png)
+
+1.Complete process, start real-time voice to text
+![image](https://user-images.githubusercontent.com/56686900/211331569-46e2a2d1-9f41-41d4-acf7-33442d1b3c96.png)
+2. the model returns the text to zero
+![image](https://user-images.githubusercontent.com/56686900/211331789-7bd7c4f0-1796-4b1a-ba30-90a4365b6e5a.png)
+3.Stop converting speech to text/Start converting speech to text
+
+
 
 备注:
 本项目的kotlin部分来自开源项目https://github.com/k2-fsa/sherpa-ncnn
