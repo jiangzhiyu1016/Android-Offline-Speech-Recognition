@@ -35,13 +35,13 @@ You can select debug directly, if there is a problem you can right-click the pro
 
 ## function declaration
 1.Jvoice_Execute(float Param,FString info);
-Param: Alternate parameter, can be random floating point number
-info = "1": Initialization model 
-info = "2": Enable or disable voice input
-info = "3": The interface is reserved. You are advised to use info=6
-info = "4": The interface is reserved. You are advised to use info=6
-info = "5": Reset the text of the model. After the call, the model returns the text to zero
-info = "6": Read speech and convert text in a thread in real time,Calling it again terminates the thread
+* Param: Alternate parameter, can be random floating point number
+* info = "1": Initialization model 
+* info = "2": Enable or disable voice input
+* info = "3": The interface is reserved. You are advised to use info=6
+* info = "4": The interface is reserved. You are advised to use info=6
+* info = "5": Reset the text of the model. After the call, the model returns the text to zero
+* info = "6": Read speech and convert text in a thread in real time,Calling it again terminates the thread
 
 2.getJvoicePointer()
 getJvoicePointer() gets an object that can bind real-time speech-to-text results to events
