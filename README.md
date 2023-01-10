@@ -34,17 +34,17 @@ You can select debug directly, if there is a problem you can right-click the pro
 ![image](https://user-images.githubusercontent.com/56686900/211327521-9ebb311b-09f7-4f18-8704-d55e2379febf.png)
 
 ## function declaration
-1.Jvoice_Execute(float Param,FString info);
+### 1.Jvoice_Execute(float Param,FString info);
 * Param: Alternate parameter, can be random floating point number
-* info = "1": Initialization model 
-* info = "2": Enable or disable voice input
+* info = "1": Initialization model(Don't repeat calls)
+* info = "2": Initialization audio(Don't repeat calls)
 * info = "3": The interface is reserved. You are advised to use info=6
 * info = "4": The interface is reserved. You are advised to use info=6
 * info = "5": Reset the text of the model. After the call, the model returns the text to zero
 * info = "6": Read speech and convert text in a thread in real time,Calling it again terminates the thread
 
-2.getJvoicePointer()
-getJvoicePointer() gets an object that can bind real-time speech-to-text results to events
+### 2.getJvoicePointer()
+* getJvoicePointer() gets an object that can bind real-time speech-to-text results to events
 
 ## Call routine diagram summary
 
@@ -56,6 +56,7 @@ getJvoicePointer() gets an object that can bind real-time speech-to-text results
 ![image](https://user-images.githubusercontent.com/56686900/211331789-7bd7c4f0-1796-4b1a-ba30-90a4365b6e5a.png)
 3.Stop converting speech to text/Start converting speech to text
 
+![image](https://user-images.githubusercontent.com/56686900/211445655-dcb8da3a-bb2a-4e9d-b4ea-abb6cac723fb.png)
 
 
 备注:
