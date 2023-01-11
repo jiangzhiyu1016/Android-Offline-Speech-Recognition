@@ -25,15 +25,15 @@ How To Use:
 
 
 ## How To call our plugin
-1.Make sure that Jvoice Plugin is enabled in your plugin
-2.For example
+* 1.Make sure that Jvoice Plugin is enabled in your plugin
+* 2.For example
 ![image](https://user-images.githubusercontent.com/56686900/211327521-9ebb311b-09f7-4f18-8704-d55e2379febf.png)
 
 ## function declaration
 ### 1.Jvoice_Execute(float Param,FString info);
 * Param: Alternate parameter, can be random floating point number
-* info = "1": Initialization model(Don't repeat calls)
-* info = "2": Initialization audio(Don't repeat calls)
+* info = "1": Initialization model(Don't repeat calls,It is best to initialize the plugin in the level blueprint)
+* info = "2": Initialization audio(Don't repeat calls,It is best to initialize the plugin in the level blueprint)
 * info = "3": The interface is reserved. You are advised to use info=6
 * info = "4": The interface is reserved. You are advised to use info=6
 * info = "5": Reset the text of the model. After the call, the model returns the text to zero
