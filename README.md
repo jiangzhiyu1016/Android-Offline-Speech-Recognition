@@ -16,18 +16,12 @@ I'll give you an example of a VR all-in-one
 
 How To Use:
 
-## New Project
-1.If you are a blueprint plug-in, you need to create a C++ class
-![image](https://user-images.githubusercontent.com/56686900/211325300-1baeb505-ce22-4a2c-8eba-6f0c642701bf.png)
+## Project Settings--Android
+* Build--Only Choose Support arm64 [aka arm64-v8a]
+* Advanced APK Packaging--Add permissions to support Voice chat (RECORD_AUDIO)
+
 ![image](https://user-images.githubusercontent.com/56686900/211325399-4aa0fd58-1e7c-48b3-ac37-f5acb1d41e26.png)
-If it is UE5.0 or below, create a new C++ class in the file TAB
-
-
-
-2.Visual studio opens after you create a new C++ class
-You can select debug directly, if there is a problem you can right-click the project and select rebuild solution
 ![image](https://user-images.githubusercontent.com/56686900/211325917-dc74b38f-3896-4df7-bf08-bfed6a07c7c5.png)
-
 ## How To call our plugin
 1.Make sure that Jvoice Plugin is enabled in your plugin
 2.For example
@@ -57,6 +51,18 @@ You can select debug directly, if there is a problem you can right-click the pro
 3.Stop converting speech to text/Start converting speech to text
 
 ![image](https://user-images.githubusercontent.com/56686900/211445655-dcb8da3a-bb2a-4e9d-b4ea-abb6cac723fb.png)
+
+## Common errors
+### Jvoice plug-in cannot be found if packaged on Android phone
+1.If you are a blueprint plug-in, you need to create a C++ class
+![image](https://user-images.githubusercontent.com/56686900/211325300-1baeb505-ce22-4a2c-8eba-6f0c642701bf.png)
+
+If it is UE5.0 or below, create a new C++ class in the file TAB
+
+
+
+2.Visual studio opens after you create a new C++ class
+You can select debug directly, if there is a problem you can right-click the project and select rebuild solution
 
 
 备注:
