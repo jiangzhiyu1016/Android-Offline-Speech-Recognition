@@ -1,6 +1,7 @@
 # Android-Offline-Speech-Recognition
 Provide accurate offline voice-to-text services for VR,AR and Android platforms, such as oculus quest1/2/pro or pico3/4
 
+> The plug-in supports UE 4.26/4.27/5.0/5.1, and since the store only allows submission of the last three versions, you can compile the plug-in yourself if you need other versions
 
 ## Introduction
 1.支持两种语音离线识别(英语和汉语) 
