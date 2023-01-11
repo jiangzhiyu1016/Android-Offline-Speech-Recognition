@@ -20,8 +20,7 @@ How To Use:
 * Build--Only Choose Support arm64 [aka arm64-v8a]
 * Advanced APK Packaging--Add permissions to support Voice chat (RECORD_AUDIO)
 
-![image](https://user-images.githubusercontent.com/56686900/211325399-4aa0fd58-1e7c-48b3-ac37-f5acb1d41e26.png)
-![image](https://user-images.githubusercontent.com/56686900/211325917-dc74b38f-3896-4df7-bf08-bfed6a07c7c5.png)
+
 ## How To call our plugin
 1.Make sure that Jvoice Plugin is enabled in your plugin
 2.For example
@@ -59,11 +58,12 @@ How To Use:
 
 If it is UE5.0 or below, create a new C++ class in the file TAB
 
+![image](https://user-images.githubusercontent.com/56686900/211325399-4aa0fd58-1e7c-48b3-ac37-f5acb1d41e26.png)
 
 
 2.Visual studio opens after you create a new C++ class
 You can select debug directly, if there is a problem you can right-click the project and select rebuild solution
-
+![image](https://user-images.githubusercontent.com/56686900/211325917-dc74b38f-3896-4df7-bf08-bfed6a07c7c5.png)
 
 备注:
 本项目的kotlin部分来自开源项目https://github.com/k2-fsa/sherpa-ncnn
