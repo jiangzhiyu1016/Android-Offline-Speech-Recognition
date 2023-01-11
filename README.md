@@ -19,6 +19,8 @@ How To Use:
 ## Project Settings--Android
 * Build--Only Choose Support arm64 [aka arm64-v8a]
 * Advanced APK Packaging--Add permissions to support Voice chat (RECORD_AUDIO)
+![@9VUM)65C_~S3LC%YJBHPWB](https://user-images.githubusercontent.com/56686900/211712241-1babf534-a3f2-4f08-b998-c03dc6e4087e.png)
+![image](https://user-images.githubusercontent.com/56686900/211712273-8ab4b6de-e080-4041-9651-e032d0f1c42d.png)
 
 
 ## How To call our plugin
