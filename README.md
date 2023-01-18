@@ -1,3 +1,11 @@
+# Reply to Question
+## About Windows version
+
+The Windows version has passed the test and the next version is available. For users who have purchased support, you can upgrade the next version for free. Thank you for your support
+
+## About Support for other languages
+This is in the next Plan, which is to support almost all languages (you may need to train your own language model, of course, to make the process as easy as possible).
+
 # Android-Offline-Speech-Recognition
 Provide accurate offline voice-to-text services for VR,AR and Android platforms, such as oculus quest1/2/pro or pico3/4
 
