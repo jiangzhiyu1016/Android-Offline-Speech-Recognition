@@ -56,11 +56,13 @@ How To Use:
 
 ![image](https://user-images.githubusercontent.com/56686900/211331329-d5455b96-0538-41d8-a3d9-b60348351e63.png)
 
-1.Complete process, start real-time voice to text
+1. Complete process, start real-time voice to text
+
 ![image](https://user-images.githubusercontent.com/56686900/211331569-46e2a2d1-9f41-41d4-acf7-33442d1b3c96.png)
 2. the model returns the text to zero
+
 ![image](https://user-images.githubusercontent.com/56686900/211331789-7bd7c4f0-1796-4b1a-ba30-90a4365b6e5a.png)
-3.Stop converting speech to text/Start converting speech to text
+3. Stop converting speech to text/Start converting speech to text
 
 ![image](https://user-images.githubusercontent.com/56686900/211445655-dcb8da3a-bb2a-4e9d-b4ea-abb6cac723fb.png)
 
@@ -73,15 +75,18 @@ https://1drv.ms/u/s!AtMQvIOr69DMi3fxjit86Nxfn1Qx?e=NwOCSw
 ![image](https://user-images.githubusercontent.com/56686900/213866376-ca09ae05-2cb6-4845-ba1d-abaf4206d5ae.png)
 
 3. Call Jvoice_WindowExit to end the voice service when you don't need it or before you end the game
+
 ![image](https://user-images.githubusercontent.com/56686900/213866518-44b6a7b9-8a70-407e-a9ee-c2dd587ad575.png)
 
 4. Like Android, you can receive real-time data here
+
 ![image](https://user-images.githubusercontent.com/56686900/213866541-8e3bbfb4-40c6-450b-91d0-6e19be441588.png)
 
 
 ## Common errors
 ### Jvoice plug-in cannot be found if packaged on Android phone
-1.If you are a blueprint plug-in, you need to create a C++ class
+1. If you are a blueprint plug-in, you need to create a C++ class
+
 ![image](https://user-images.githubusercontent.com/56686900/211325300-1baeb505-ce22-4a2c-8eba-6f0c642701bf.png)
 
 If it is UE5.0 or below, create a new C++ class in the file TAB
@@ -91,6 +96,7 @@ If it is UE5.0 or below, create a new C++ class in the file TAB
 
 2.Visual studio opens after you create a new C++ class
 You can select debug directly, if there is a problem you can right-click the project and select rebuild solution
+
 ![image](https://user-images.githubusercontent.com/56686900/211325917-dc74b38f-3896-4df7-bf08-bfed6a07c7c5.png)
 
 备注:
