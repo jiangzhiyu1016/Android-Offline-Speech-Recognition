@@ -3,6 +3,8 @@
 
 The WinDows version has been added, the plug-in has been submitted for review, and the case has been updated
 
+
+
 ## About Support for other languages
 This is in the next Plan, which is to support almost all languages (you may need to train your own language model, of course, to make the process as easy as possible).
 
@@ -61,6 +63,18 @@ How To Use:
 3.Stop converting speech to text/Start converting speech to text
 
 ![image](https://user-images.githubusercontent.com/56686900/211445655-dcb8da3a-bb2a-4e9d-b4ea-abb6cac723fb.png)
+
+## How to use in windows
+1.Call Jvoice WindowsInit to initialize
+2.Invoke Jvoice OpenExe to start the voice stream server
+* Here you can download the Voice server exe package, unzip it, and then pass the absolute path of the exe to the function
+
+![image](https://user-images.githubusercontent.com/56686900/213866376-ca09ae05-2cb6-4845-ba1d-abaf4206d5ae.png)
+3.Call Jvoice_WindowExit to end the voice service when you don't need it or before you end the game
+![image](https://user-images.githubusercontent.com/56686900/213866518-44b6a7b9-8a70-407e-a9ee-c2dd587ad575.png)
+4.Like Android, you can receive real-time data here
+![image](https://user-images.githubusercontent.com/56686900/213866541-8e3bbfb4-40c6-450b-91d0-6e19be441588.png)
+
 
 ## Common errors
 ### Jvoice plug-in cannot be found if packaged on Android phone
