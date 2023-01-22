@@ -1,6 +1,7 @@
 # Reply to Question
 ## About Windows version
 
+2023.1.21 This commitment has been fulfilled
 The WinDows version has been added, the plug-in has been submitted for review, and the case has been updated
 
 
