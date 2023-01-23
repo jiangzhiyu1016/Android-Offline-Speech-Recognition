@@ -4,7 +4,8 @@
 2023.1.21 This commitment has been fulfilled
 The Windows version has been added, the plug-in has been submitted for review, and the case has been updated
 
-
+## About Phrases equaling Events(keyword subscription, keyword auto-matching)
+This is a good idea, I will record it in my development document and implement it as soon as possible in the next plan
 
 ## About Support for other languages
 This is in the next Plan, which is to support almost all languages (you may need to train your own language model, of course, to make the process as easy as possible).
