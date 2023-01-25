@@ -3,7 +3,9 @@
 
 2023.1.21 This commitment has been fulfilled
 The Windows version has been added, the plug-in has been submitted for review, and the case has been updated
-
+# About VR Demonstration project
+* Download it at the following address
+* https://1drv.ms/u/s!AtMQvIOr69DMi3nzKgCnP_uJZ85X?e=EjhSYn
 ## About Phrases equaling Events(keyword subscription, keyword auto-matching)
 This is a good idea, I will record it in my development document and implement it as soon as possible in the next plan
 
