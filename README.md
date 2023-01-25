@@ -98,10 +98,13 @@ If it is UE5.0 or below, create a new C++ class in the file TAB
 ![image](https://user-images.githubusercontent.com/56686900/211325399-4aa0fd58-1e7c-48b3-ac37-f5acb1d41e26.png)
 
 
-2.Visual studio opens after you create a new C++ class
+2. Visual studio opens after you create a new C++ class
 You can select debug directly, if there is a problem you can right-click the project and select rebuild solution
 
 ![image](https://user-images.githubusercontent.com/56686900/211325917-dc74b38f-3896-4df7-bf08-bfed6a07c7c5.png)
+
+3. If you are using the oculus branch of Unreal Engine, please send me an email with the Shopping Mall plugin purchase page and I will reply with a version that supports the oculus branch of Unreal Engine(Email: 1146094743@qq.com)
+* The Unreal Engine of the oculus branch does not seem to support conditional compilation, so I have specially prepared a VR example of the oculus branch for you and our corresponding plugin
 
 备注:
 本项目的kotlin部分来自开源项目https://github.com/k2-fsa/sherpa-ncnn
