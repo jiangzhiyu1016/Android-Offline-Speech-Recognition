@@ -1,13 +1,14 @@
 # Reply to Question
 ## About Windows version
 
-2023.1.21 This commitment has been fulfilled
+* 2023.1.21 This commitment has been fulfilled
 The Windows version has been added, the plug-in has been submitted for review, and the case has been updated
 # About VR Demonstration project
 * Download it at the following address
 * https://1drv.ms/u/s!AtMQvIOr69DMi3nzKgCnP_uJZ85X?e=EjhSYn
 ## About Phrases equaling Events(keyword subscription, keyword auto-matching)
 This is a good idea, I will record it in my development document and implement it as soon as possible in the next plan
+* 2023.2.4  This commitment has been fulfilled,We provide the similarity algorithm, which can return the similarity with a keyword
 
 ## About Support for other languages
 This is in the next Plan, which is to support almost all languages (you may need to train your own language model, of course, to make the process as easy as possible).
@@ -85,6 +86,14 @@ https://1drv.ms/u/s!AtMQvIOr69DMi3fxjit86Nxfn1Qx?e=NwOCSw
 4. Like Android, you can receive real-time data here
 
 ![image](https://user-images.githubusercontent.com/56686900/213866541-8e3bbfb4-40c6-450b-91d0-6e19be441588.png)
+
+5. Just fill in the keywords and the text similarity is returned
+
+![image](https://user-images.githubusercontent.com/56686900/216767338-66912e66-351b-44b0-b951-21d2ccf3f4ac.png)
+
+6. Converts the Chinese in the string to Pinyin/把字符串中的中文转为拼音
+
+![image](https://user-images.githubusercontent.com/56686900/216767354-4da8b46e-5494-444f-a72c-91c8492c222b.png)
 
 
 ## Common errors
