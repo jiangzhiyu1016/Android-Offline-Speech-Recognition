@@ -75,7 +75,7 @@ How To Use:
 1. Call Jvoice WindowsInit to initialize
 2. Invoke Jvoice OpenExe to start the voice stream server
 * Here you can download the Voice server exe package, unzip it, and then pass the absolute path of the exe to the function
-https://1drv.ms/u/s!AtMQvIOr69DMi3fxjit86Nxfn1Qx?e=NwOCSw
+https://1drv.ms/u/s!AtMQvIOr69DMi38WlJ_zYSbCLCVS?e=cIizlg
 
 ![image](https://user-images.githubusercontent.com/56686900/213866376-ca09ae05-2cb6-4845-ba1d-abaf4206d5ae.png)
 
