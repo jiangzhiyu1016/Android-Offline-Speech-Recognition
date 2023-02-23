@@ -77,7 +77,8 @@ How To Use:
 * Here you can download the Voice server exe package, unzip it, and then pass the absolute path of the exe to the function
 https://1drv.ms/u/s!AtMQvIOr69DMi38WlJ_zYSbCLCVS?e=cIizlg
 
-![image](https://user-images.githubusercontent.com/56686900/213866376-ca09ae05-2cb6-4845-ba1d-abaf4206d5ae.png)
+![image](https://user-images.githubusercontent.com/56686900/220878160-5645fe9d-359e-4187-9087-b659947d99b5.png)
+
 
 3. Call Jvoice_WindowExit to end the voice service when you don't need it or before you end the game
 
@@ -94,6 +95,7 @@ https://1drv.ms/u/s!AtMQvIOr69DMi38WlJ_zYSbCLCVS?e=cIizlg
 6. Converts the Chinese in the string to Pinyin/把字符串中的中文转为拼音
 
 ![image](https://user-images.githubusercontent.com/56686900/216767354-4da8b46e-5494-444f-a72c-91c8492c222b.png)
+
 
 
 ## Common errors
