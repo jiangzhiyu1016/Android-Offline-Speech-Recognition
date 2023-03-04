@@ -76,7 +76,7 @@ How To Use:
 
 2. Invoke Jvoice OpenExe to start the voice stream server
 
-**<font color=red>Make sure the exe path does not contain any Spaces</font>**
+* **<font color=red>Make sure the exe path does not contain any Spaces</font>**
 
 * Here you can download the Voice server exe package, unzip it, and then pass the absolute path of the exe to the function
 https://1drv.ms/u/s!AtMQvIOr69DMi38WlJ_zYSbCLCVS?e=cIizlg
