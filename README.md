@@ -73,7 +73,10 @@ How To Use:
 
 ## How to use in windows
 1. Call Jvoice WindowsInit to initialize
+
 2. Invoke Jvoice OpenExe to start the voice stream server
+
+> Make sure the exe path does not contain any Spaces
 * Here you can download the Voice server exe package, unzip it, and then pass the absolute path of the exe to the function
 https://1drv.ms/u/s!AtMQvIOr69DMi38WlJ_zYSbCLCVS?e=cIizlg
 * To ensure that the latest audio is used every time we start, we execute Windows_Exit before WindowsInit,You can also skip Windows Sexit if you're sure you've logged out of the Windows server
