@@ -5,7 +5,7 @@
 The Windows version has been added, the plug-in has been submitted for review, and the case has been updated
 # About VR Demonstration project
 * Download it at the following address
-* https://1drv.ms/u/s!AtMQvIOr69DMi3nzKgCnP_uJZ85X?e=EjhSYn
+* https://1drv.ms/u/c/ccd0ebab83bc10d3/EdMQvIOr69AggMz5BQAAAAABPDr9cZnnYvn_wKfY41XANg?e=gwnxxO
 ## About Phrases equaling Events(keyword subscription, keyword auto-matching)
 This is a good idea, I will record it in my development document and implement it as soon as possible in the next plan
 * 2023.2.4  This commitment has been fulfilled,We provide the similarity algorithm, which can return the similarity with a keyword
@@ -79,7 +79,7 @@ How To Use:
 * **<font color=red>Make sure the exe path does not contain any Spaces</font>**
 
 * Here you can download the Voice server exe package, unzip it, and then pass the absolute path of the exe to the function
-https://1drv.ms/u/s!AtMQvIOr69DMi38WlJ_zYSbCLCVS?e=cIizlg
+https://1drv.ms/u/c/ccd0ebab83bc10d3/EdMQvIOr69AggMz_BQAAAAABDZLAcV4t6P2x_UZiZwXIkw?e=3blYbw
 * To ensure that the latest audio is used every time we start, we execute Windows_Exit before WindowsInit,You can also skip Windows Sexit if you're sure you've logged out of the Windows server
 
 ![image](https://user-images.githubusercontent.com/56686900/220878160-5645fe9d-359e-4187-9087-b659947d99b5.png)
